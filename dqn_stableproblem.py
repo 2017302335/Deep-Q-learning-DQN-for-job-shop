@@ -8,7 +8,6 @@ from keras.layers import Dense, Input
 from keras.models import Model, Sequential
 from keras.optimizers import Adam
 from keras.utils import plot_model
-
 import JobShop
 
 EPISODES = 10000
